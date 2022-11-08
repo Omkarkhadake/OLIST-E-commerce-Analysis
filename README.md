@@ -10,3 +10,4 @@ The goal of the analysis is to extract information that supports Olist's busines
  3-Average Price & Payment Values from Customers of Sao Paulo City
  4-Relationship between Shipping Days vs Review Score 
  5-Relationship between Shipping Days vs Review Score
+![Joins](https://user-images.githubusercontent.com/93486737/200486060-d789cc34-78c2-4ba5-b6d6-9b4f5daa72cb.png)
