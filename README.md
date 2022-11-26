@@ -15,6 +15,8 @@ Click on drive link to get all source data
  https://drive.google.com/drive/folders/1KcX8X0KpiG-FZvr-EzO041KnbC1lzw17?usp=share_link
  
  Solved KPIS
+	
+	
  1 - Power BI - https://drive.google.com/file/d/1-5vCFM6__YoR2_M6kkjL9UeW4-HK_eLs/view?usp=share_link
  2 - Tableau  - https://drive.google.com/file/d/18eYdn6GIMKPnuDKdj4vug1ilbN5DYKSf/view?usp=share_link
  3 - SQL      - https://drive.google.com/file/d/1AjXs_wVt9ngG8IUkk127y4LZK-CYqdec/view?usp=share_link
